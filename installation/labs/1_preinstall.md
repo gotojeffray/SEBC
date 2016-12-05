@@ -27,7 +27,7 @@ N/A : because / is XFS.
 tune2fs 1.42.9 (28-Dec-2013)
 tune2fs: Bad magic number in super-block while trying to open /dev/xvda1
 Couldn't find valid filesystem superblock.
-
+~~~~~
 
 ~~~~~~
 4.Show that transparent hugepages is disabled
@@ -96,3 +96,4 @@ Redirecting to /bin/systemctl status  ntpd.service
    CGroup: /system.slice/ntpd.service
            └─19258 /usr/sbin/ntpd -u ntp:ntp -g
 ~~~~~~~
+~~~
