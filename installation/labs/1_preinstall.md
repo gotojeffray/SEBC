@@ -22,7 +22,7 @@ UUID=ef6ba050-6cdc-416a-9380-c14304d0d206 /                       xfs     defaul
 ~~~~~~~
 3.Show the reserve space of any non-root, ext-based volumes
 
-N/A : because / is XFS.
+N/A : because the filesystem is XFS.
 [root@cdh01 ansible]# tune2fs  -l  /dev/xvda1
 tune2fs 1.42.9 (28-Dec-2013)
 tune2fs: Bad magic number in super-block while trying to open /dev/xvda1
