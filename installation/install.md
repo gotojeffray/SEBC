@@ -270,8 +270,8 @@ or [here for MySQL](http://www.cloudera.com/documentation/enterprise/latest/topi
     * Install the <code>mysql</code> package on all nodes
     * Install <code>mysql-server</code> on the server and replica nodes
     * Download and copy [the JDBC connector](https://dev.mysql.com/doc/connector-j/5.1/en/connector-j-binary-installation.html) to all nodes. 
-2. You should not need to edit your <code>/etc/my.cnf</code> file
-    * Consult your MySQL documentation for enabling replication.<p>
+2. You will not need to create a <code>/etc/my.cnf</code> file to start MySQL
+    * But you will need to add properties to support replication. Check MySQL documentation.<p>
 3. Start the <code>mysqld</code> service.
 4. Use <code>/usr/bin/mysql_secure_installation</code> to:<br>
     a. Set password protection for the server<br>
