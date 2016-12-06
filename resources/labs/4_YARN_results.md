@@ -1,6 +1,7 @@
----
+
+-----
 Slowest:
-~~~
+
 Teragen 10GB:
 real	3m44.037s
 
@@ -12,8 +13,8 @@ yarn.nodemanager.resource.memory-mb=2048
 mapreduce.job.maps=8 
 mapreduce.job.reduces=8 
 mapreduce.map.memory.mb=2048
-~~~
----
+
+-----
 
 
 ---
