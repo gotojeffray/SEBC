@@ -10,6 +10,9 @@
 a littel risky allocate 16GB for each container? I think 8GB would be safer.
 
 ~~~~
+----
+What criteria affects workload factor? What does a value of 1, 2, or 4 signify?
 
+workload factor means the concurrency. The lager number you have signify that the more containers will be lauched when you submmit a job.
 
-
+----
