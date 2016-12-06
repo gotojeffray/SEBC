@@ -17,6 +17,7 @@ mapreduce.job.maps=8
 mapreduce.job.reduces=8 
 mapreduce.map.memory.mb=2048
 ~~~
+
 ---
 
 
