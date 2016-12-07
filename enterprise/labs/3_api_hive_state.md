@@ -34,7 +34,7 @@
   "endTime" : "2016-12-07T03:26:17.298Z",
   "active" : false,
   "success" : false,
-  ##"resultMessage" : "Command Start is not currently available for execution.",##
+  "resultMessage" : "Command Start is not currently available for execution.",
   "serviceRef" : {
     "clusterName" : "cluster",
     "serviceName" : "hive"
