@@ -16,11 +16,11 @@ Security
 ----
 How do you upgrade the CM agents?
 ###
- ..  1.Update the yum.repos.d file for new version of cloudera agent.
- ..  2.yum update
- .  3.stop the agent
-   4.yum upgrade cloudera-manager-agent.x86_64
-   5.start the agent
+ 1.Update the yum.repos.d file for new version of cloudera agent.
+ 2.yum update
+ 3.stop the agent
+ 4.yum upgrade cloudera-manager-agent.x86_64
+ 5.start the agent
 ###
 ----
 Give the tsquery statement used to chart Hue's CPU utilization?
