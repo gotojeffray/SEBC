@@ -22,10 +22,11 @@ How do you upgrade the CM agents?
 * 4.yum upgrade cloudera-manager-agent.x86_64
 * 5.start the agent
 ###
+
 ----
 Give the tsquery statement used to chart Hue's CPU utilization?
 ###
-
+SELECT cpu_system_rate + cpu_user_rate WHERE entityName = "hue-HUE_SERVER-f2373c0f7b73eec64dbc188eb4e7d42b" AND category = ROLE
 ###
 ----
 Name all the roles that make up the Hive service
