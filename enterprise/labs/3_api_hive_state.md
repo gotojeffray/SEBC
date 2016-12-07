@@ -12,6 +12,9 @@
 }
 ~~~~
 ~~~~
+Failed because it's started:
+
+
 [root@ip-172-31-3-200 ~]# curl -X POST -u gotojeffray:cloudera 'htp://localhost:7180/api/v12/clusters/gotojeffray/services/hive/commands/start'
 {
   "id" : 1436,
