@@ -43,5 +43,4 @@ What steps must be completed before integrating Cloudera Manager with Kerberos?
 * Congfigure the renew tickets allowed in KDC.
 * Create a super previleage account for cloudera manager
 * install JCE for AES-256 encrytion
-###
-----
+
