@@ -36,6 +36,7 @@ Name all the roles that make up the Hive service
 * Gateway
 * WebHcat(optional)
 ###
+-----
 ----
 What steps must be completed before integrating Cloudera Manager with Kerberos?
 ###
