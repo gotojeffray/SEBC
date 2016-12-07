@@ -1,7 +1,8 @@
 ----
 What is ubertask optimization?
-
+\\\\\\
 By default a job that has less than 10 mappers only and one reducer, and the input size is less than the size of one HDFS block is said to be Ubertask. Application Master could run ubertask in its own container instead of allocating new container for saving time. 
+\\\\\
 ---
 Where in CM is the Kerberos Security Realm value displayed?
 ----
