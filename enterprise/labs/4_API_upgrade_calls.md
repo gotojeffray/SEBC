@@ -1,11 +1,10 @@
-
+~~~
 -------
 Report the latest available version of the API
 Report the database server in use by CM
-
 didn't find any api for above.
--------
-
+---
+~~~
 ----
 Report the database server in use by CM
  curl  -u gotojeffray:cloudera  http://localhost:7180/api/v2/cm/version/
