@@ -1,7 +1,7 @@
 
 ---
-|  region         |   AMI ID     |     OS       |
-| ap-southeast-1  | ami-f068a193 |   Centos 7.2 |
+ region            AMI ID         OS       
+ ap-southeast-1    ami-f068a193   Centos 7.2 
 
 ---
 
