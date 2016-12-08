@@ -1,6 +1,10 @@
 ~~~
 
 Report the latest available version of the API
+[root@ip-172-31-3-200 ~]# curl  -u gotojeffray:cloudera  http://localhost:7180/api/version
+v14
+~~~~
+
 Report the database server in use by CM
 
 #I didn't find any api for above.
