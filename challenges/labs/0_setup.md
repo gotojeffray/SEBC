@@ -4,7 +4,9 @@
  ap-southeast-1    ami-f068a193   Centos 7.2 
 
 ~~~
-
+~~
+Volume 80GB
+~~~
 ~~~
 repo id          repo name                                   status
 base/7/x86_64    CentOS-7 - Base                              9,007
