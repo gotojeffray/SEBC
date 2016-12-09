@@ -31,4 +31,5 @@ Installing mysql database is not that helpful.
 How long before you are ready to to install a production cluster by yourself? What do you need to work on?
 
 It's still a long way to install a real prod cluster with all security components included(TLS/Encrytion/Mult-tenacy/Audit). The reason is that we must be in compliance with Government Security standards.
-----
+
+-----
