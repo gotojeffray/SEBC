@@ -28,5 +28,5 @@ The securtiy part is most helpful to me, and I think we should go deeper.
 
 ----
 How long before you are ready to to install a production cluster by yourself? What do you need to work on?
-It's still a long way to install a real prod cluster with all security components( TLS/Encrytion/Mult-tenacy/Audit ...)
+It's still a long way to install a real prod cluster with all security components( TLS/Encrytion/Mult-tenacy/Audit ...). We must be in compliance with Goverment Security standards.
 ----
